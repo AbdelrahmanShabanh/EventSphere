@@ -1,0 +1,102 @@
+{
+  "navbar": {
+    "events": "الفعاليات",
+    "myBookings": "حجوزاتي",
+    "admin": "لوحة الإدارة",
+    "login": "تسجيل الدخول",
+    "register": "انضم الآن",
+    "logout": "تسجيل الخروج"
+  },
+  "home": {
+    "upcomingEvents": "الفعاليات القادمة",
+    "discoverEvents": "اكتشف الفعاليات",
+    "noEvents": "لا توجد فعاليات قادمة في الوقت الحالي.",
+    "checkBack": "تحقق مرة أخرى قريبًا للحصول على فعاليات جديدة!",
+    "venue": "المكان",
+    "date": "التاريخ",
+    "price": "السعر",
+    "category": "الفئة",
+    "bookNow": "احجز الآن",
+    "loginToBook": "سجل الدخول للحجز",
+    "viewDetails": "عرض التفاصيل"
+  },
+  "event": {
+    "eventDetails": "تفاصيل الفعالية",
+    "description": "وصف الفعالية",
+    "ticketInfo": "معلومات التذكرة",
+    "alreadyBooked": "تم الحجز بالفعل",
+    "youHaveBooked": "لقد حجزت هذه الفعالية بالفعل.",
+    "processing": "جاري المعالجة...",
+    "bookingSuccess": "تم الحجز بنجاح! لقد حجزت تذكرة واحدة لهذه الفعالية.",
+    "backToEvents": "العودة إلى الفعاليات"
+  },
+  "auth": {
+    "welcome": "مرحبًا بعودتك",
+    "signInTo": "سجل الدخول للمتابعة إلى EventSphere",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "username": "اسم المستخدم",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "signIn": "تسجيل الدخول",
+    "signingIn": "جاري تسجيل الدخول...",
+    "register": "تسجيل",
+    "registering": "جاري التسجيل...",
+    "noAccount": "ليس لديك حساب؟",
+    "signUp": "سجل الآن",
+    "haveAccount": "لديك حساب بالفعل؟",
+    "loginHere": "سجل الدخول هنا"
+  },
+  "bookings": {
+    "myBookings": "حجوزاتي",
+    "noBookings": "لم تقم بحجز أي فعاليات حتى الآن.",
+    "browseEvents": "تصفح الفعاليات",
+    "tickets": "التذاكر",
+    "bookedOn": "تم الحجز في",
+    "viewEvent": "عرض الفعالية",
+    "cancelBooking": "إلغاء الحجز"
+  },
+  "admin": {
+    "adminPanel": "لوحة الإدارة",
+    "createEvent": "إنشاء فعالية جديدة",
+    "editEvent": "تعديل الفعالية",
+    "name": "اسم الفعالية",
+    "category": "الفئة",
+    "description": "الوصف",
+    "date": "التاريخ",
+    "venue": "المكان",
+    "price": "السعر",
+    "capacity": "السعة",
+    "imageUrl": "رابط الصورة",
+    "actions": "الإجراءات",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "cancel": "إلغاء",
+    "update": "تحديث",
+    "create": "إنشاء",
+    "confirmDelete": "تأكيد الحذف",
+    "deleteConfirmation": "هل أنت متأكد من رغبتك في حذف الفعالية \"{{name}}\"؟ لا يمكن التراجع عن هذا الإجراء."
+  },
+  "settings": {
+    "language": "اللغة",
+    "english": "English",
+    "arabic": "العربية",
+    "theme": "المظهر",
+    "light": "فاتح",
+    "dark": "داكن"
+  },
+  "footer": {
+    "tagline": "ابحث واحجز أفضل الفعاليات في منطقتك",
+    "connect": "تواصل معنا",
+    "copyright": "جميع الحقوق محفوظة لـ",
+    "terms": "شروط الخدمة",
+    "privacy": "سياسة الخصوصية",
+    "contact": "اتصل بنا"
+  },
+  "search": {
+    "placeholder": "ابحث عن الفعاليات...",
+    "button": "بحث",
+    "noResults": "لم يتم العثور على فعاليات تطابق بحثك",
+    "searchBy": "البحث بالاسم أو المكان أو الفئة",
+    "allCategories": "جميع الفئات"
+  }
+}

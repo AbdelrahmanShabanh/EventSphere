@@ -1,0 +1,102 @@
+{
+  "navbar": {
+    "events": "Events",
+    "myBookings": "My Bookings",
+    "admin": "Admin Panel",
+    "login": "Sign In",
+    "register": "Join Now",
+    "logout": "Logout"
+  },
+  "home": {
+    "upcomingEvents": "Upcoming Events",
+    "discoverEvents": "Discover Events",
+    "noEvents": "No upcoming events at the moment.",
+    "checkBack": "Check back soon for new events!",
+    "venue": "Venue",
+    "date": "Date",
+    "price": "Price",
+    "category": "Category",
+    "bookNow": "Book Now",
+    "loginToBook": "Sign in to Book",
+    "viewDetails": "View Details"
+  },
+  "event": {
+    "eventDetails": "Event Details",
+    "description": "Event Description",
+    "ticketInfo": "Ticket Information",
+    "alreadyBooked": "Already Booked",
+    "youHaveBooked": "You have already booked this event.",
+    "processing": "Processing...",
+    "bookingSuccess": "Booking successful! You have booked 1 ticket for this event.",
+    "backToEvents": "Back to Events"
+  },
+  "auth": {
+    "welcome": "Welcome Back",
+    "signInTo": "Sign in to continue to EventSphere",
+    "email": "Email Address",
+    "password": "Password",
+    "username": "Username",
+    "confirmPassword": "Confirm Password",
+    "signIn": "Sign In",
+    "signingIn": "Signing in...",
+    "register": "Register",
+    "registering": "Registering...",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign up now",
+    "haveAccount": "Already have an account?",
+    "loginHere": "Login here"
+  },
+  "bookings": {
+    "myBookings": "My Bookings",
+    "noBookings": "You haven't booked any events yet.",
+    "browseEvents": "Browse Events",
+    "tickets": "Tickets",
+    "bookedOn": "Booked on",
+    "viewEvent": "View Event",
+    "cancelBooking": "Cancel Booking"
+  },
+  "admin": {
+    "adminPanel": "Admin Panel",
+    "createEvent": "Create New Event",
+    "editEvent": "Edit Event",
+    "name": "Event Name",
+    "category": "Category",
+    "description": "Description",
+    "date": "Date",
+    "venue": "Venue",
+    "price": "Price",
+    "capacity": "Capacity",
+    "imageUrl": "Image URL",
+    "actions": "Actions",
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "update": "Update",
+    "create": "Create",
+    "confirmDelete": "Confirm Delete",
+    "deleteConfirmation": "Are you sure you want to delete the event \"{{name}}\"? This action cannot be undone."
+  },
+  "settings": {
+    "language": "Language",
+    "english": "English",
+    "arabic": "العربية",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "footer": {
+    "tagline": "Find and book the best events in your area",
+    "connect": "Connect with us",
+    "copyright": "All rights reserved by",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "contact": "Contact Us"
+  },
+  "search": {
+    "placeholder": "Search for events...",
+    "button": "Search",
+    "noResults": "No events found matching your search",
+    "searchBy": "Search by name, venue, or category",
+    "allCategories": "All Categories"
+  }
+}

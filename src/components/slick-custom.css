@@ -1,0 +1,82 @@
+/* Custom styles for slick carousel */
+
+/* Fix for RTL arrows */
+[dir="rtl"] .slick-prev {
+  right: auto;
+  left: 25px;
+}
+
+[dir="rtl"] .slick-next {
+  right: 25px;
+  left: auto;
+}
+
+/* Original arrow styles */
+.slick-prev:before {
+  content: "←";
+}
+
+.slick-next:before {
+  content: "→";
+}
+
+/* RTL arrow styles */
+[dir="rtl"] .slick-prev:before {
+  content: "→";
+}
+
+[dir="rtl"] .slick-next:before {
+  content: "←";
+}
+
+/* Fix for RTL slider */
+[dir="rtl"] .slick-slide {
+  float: right;
+}
+
+/* Improve arrows visibility */
+.slick-prev,
+.slick-next {
+  z-index: 1;
+  width: 40px;
+  height: 40px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  font-size: 30px;
+  opacity: 0.75;
+}
+
+/* Improve dots visibility */
+.slick-dots {
+  bottom: 15px;
+}
+
+.slick-dots li button:before {
+  font-size: 12px;
+  color: white;
+  opacity: 0.5;
+}
+
+.slick-dots li.slick-active button:before {
+  color: white;
+  opacity: 1;
+}
+
+/* Add transition effects */
+.slick-slide {
+  transition: all 0.3s ease;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .slick-prev,
+  .slick-next {
+    display: none !important;
+  }
+
+  .slick-dots {
+    bottom: 5px;
+  }
+}
